@@ -19,5 +19,39 @@
     <p>price 
       ₹999</p>
       
-  
-  
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>URBANX</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <h1>URBANX</h1>
+  <p>Premium Streetwear Collection</p>
+</header>
+
+<section class="products">                                                     
+    <h2>Classic White Tee</h2>
+    <p class="desc">
+
+  <div class="card">
+    <img src="images/tshirt1.jpg">
+    <h2>Midnight Black Tee</h2>
+    <p class="desc">                                     
+      Premium cotton fabric with perfect street fit.
+      Designed for bold and confident lifestyle.
+    </p>
+    <span>₹999</span>
+  </div>
+
+  <div class="card">
+    <img src="images/tshirt2.jpg">
+    <h2>Classic White Tee</h2>
+    <p class="desc">
+
+
+      
