@@ -19,7 +19,7 @@
     <p>price 
       ₹999</p>
       
- <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
