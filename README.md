@@ -2,12 +2,21 @@
 <html lang="n">
 <head>
   <meta charset="UTF-8">
-   
+
+<head>
+</head>
+<body>
+
+<h1>Hello World 👋</h1>
+<p></p>
+
+</body>
+</html>  
 </head>
 <body>
 
 <header>
-  <h1>SAMI FITNESS</h1>
+  
   <p>Premium Gym & Workout T-Shirts</p>
   <a class="btn" href="https://wa.me/9890425490">Order on WhatsApp</a>
 </header>
