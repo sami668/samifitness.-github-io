@@ -1,60 +1,43 @@
-# Sami Fitness 
-     primeim cloths
+
+
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <p>Premium Streetwear</p>
-</header>
+  <header>
+    <h1>Sami Fitness</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Shop</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
 
-<section class="products">
-  <div class="card">
-    <img src="images/tshirt1.jpg">
-    <h3>Black T-Shirt</h3>
-    <p>price 
-      ₹999</p>
-      
+  <section class="hero">
+    <img src="images/banner.jpg" alt="Fashion Banner">
+    <div class="hero-text">
+      <h2>New Arrivals</h2>
+      <p>Trendy styles for every season</p>
+    </div>
+  </section>
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>URBANX</title>
-  <link rel="stylesheet" href="style.css">
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-</head>
-<body>
+  <section class="products">
+    <div class="product-card">
+      <img src="images/dress1.jpg" alt="Summer Dress">
+      <h3>Summer Dress</h3>
+      <p>₹1,499</p>
+    </div>
+    <div class="product-card">
+      <img src="images/jacket1.jpg" alt="Leather Jacket">
+      <h3>Leather Jacket</h3>
+      <p>₹3,999</p>
+    </div>
+    <div class="product-card">
+      <img src="images/shirt1.jpg" alt="Casual Shirt">
+      <h3>Casual Shirt</h3>
+      <p>₹999</p>
+    </div>
+  </section>
 
-<header>
-  <h1>URBANX</h1>
-  <p>Premium Streetwear Collection</p>
-</header>
-
-<section class="products">                                                     
-    <h2>Classic White Tee</h2>
-    <p class="desc">
-
-  <div class="card">
-    <img src="images/tshirt1.jpg">
-    <h2>Midnight Black Tee</h2>
-    <p class="desc">                                     
-      Premium cotton fabric with perfect street fit.
-      Designed for bold and confident lifestyle.
-    </p>
-    <span>₹999</span>
-  </div>
-
-  <div class="card">
-    <img src="images/tshirt2.jpg">
-    <h2>Classic White Tee</h2>
-    <p class="desc">
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
- 
-
-
-</body>
-</html>
-
-
-      
+  <footer>
+    
